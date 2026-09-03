@@ -1,0 +1,16 @@
+event_name,event_date,event_type,college,registrations,attendance,marketing_source,feedback_score
+AI Bootcamp,2026-01-15,Workshop,SNIST,180,142,Instagram,4.5
+AI Bootcamp,2026-01-15,Workshop,JNTUH,120,102,WhatsApp,4.6
+AI Bootcamp,2026-01-15,Workshop,CBIT,95,70,LinkedIn,4.2
+Hackathon 1.0,2026-02-10,Hackathon,SNIST,260,218,Instagram,4.7
+Hackathon 1.0,2026-02-10,Hackathon,VNR VJIET,170,146,WhatsApp,4.6
+Hackathon 1.0,2026-02-10,Hackathon,CBIT,130,101,LinkedIn,4.4
+Web Dev Meetup,2026-03-05,Meetup,SNIST,140,91,Instagram,4.1
+Web Dev Meetup,2026-03-05,Meetup,GRIET,90,71,WhatsApp,4.3
+Web Dev Meetup,2026-03-05,Meetup,JNTUH,80,54,LinkedIn,4.0
+GenAI Workshop,2026-04-12,Workshop,SNIST,210,176,WhatsApp,4.8
+GenAI Workshop,2026-04-12,Workshop,CBIT,110,89,Instagram,4.6
+GenAI Workshop,2026-04-12,Workshop,VNR VJIET,105,84,LinkedIn,4.5
+Open Source Sprint,2026-05-18,Community,SNIST,155,119,WhatsApp,4.4
+Open Source Sprint,2026-05-18,Community,GRIET,85,62,Instagram,4.2
+Open Source Sprint,2026-05-18,Community,JNTUH,70,50,LinkedIn,4.1

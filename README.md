@@ -1,5 +1,10 @@
 # Growth Analytics
+Community & Event Growth Analytics Platform built with Python, Pandas, Plotly and Streamlit.
 
-Community & Event Growth Analytics Dashboard
+## Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-Built with Python, Pandas, Plotly and Streamlit.
+Focus: **Data → Insight → Decision**
